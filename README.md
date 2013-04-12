@@ -21,7 +21,7 @@ Running './manage.py test' will run all tests including those "smart found"
 in applications (default django behavior plus default django-test-runner
 behavior).
 
-Using './manage.py test projectonly' will run all the tests in your source
+Using './manage.py test projectapps' will run all the tests in your source
 folder but not all installed apps (the default behavior of
 django-discover-runner)
 

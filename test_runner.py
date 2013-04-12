@@ -27,7 +27,7 @@ class DiscoveryRunner(DjangoTestSuiteRunner):
     in applications (default django behavior plus default django-test-runner
     behavior).
 
-    Using './manage.py test projectonly' will run all the tests in your source
+    Using './manage.py test projectapps' will run all the tests in your source
     folder but not all installed apps (the default behavior of
     django-discover-runner)
 
